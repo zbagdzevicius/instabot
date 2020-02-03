@@ -114,7 +114,6 @@ nohup.out
 state/
 
 # Settings files
-*.txt
 *.checkpoint
 *_uuid_and_cookie.json
 
